@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    margin-top: 500px;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body {
+    background-color: #202024;
+}
+
+#footer {
+    margin-top: 280px;
+    padding: 4em 0 2em 0;
+    background-color: #1b1b1f;
+    text-align: center;
+}
+
+#footer .copyright {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.9em;
+    margin: 0 0 2em 0;
+    padding: 0;
+    text-align: center;
+}
+
+#footer .inner {
+    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+}
